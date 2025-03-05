@@ -47,7 +47,7 @@ body {
 
 button {
   width: 100px;
-  height: 55px;
+  height: 52px;
   font-size: 16px;
   background-color: #ca4b7c;
   color: white;
@@ -77,8 +77,14 @@ span {
   margin: 15px;
   border-radius: 10px;
   color: white;
+  cursor: pointer;
 }
-
+#lower_div i {
+  transition-duration: 0.7s;
+}
+#lower_div i:hover {
+  color: #d3d3d3;
+}
 #this {
   display: none;
 }
