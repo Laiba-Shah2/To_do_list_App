@@ -10,7 +10,6 @@ body {
   background-image: linear-gradient(#6e386e2d 1px, transparent 1px),
     linear-gradient(90deg, #6e386e2d 1px, transparent 1px);
   background-size: 30px 30px; /* Adjust grid size */
-  /* height: 100vh; */
   margin: 0;
 }
 
